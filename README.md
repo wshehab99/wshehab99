@@ -7,7 +7,7 @@ Experienced Software Developer with over 2 years of expertise in PHP and the Lar
 
 
 ## 🔗 Links
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) -->
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wshehab99.github.io/portfolio)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wshehab99)
 [![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wshehab99)
 [![instagram](https://img.shields.io/badge/instagram-5B51D8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wshehab99)
