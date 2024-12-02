@@ -43,7 +43,7 @@ Experienced Software Developer with over 2 years of expertise in PHP and the Lar
 
 </div>
 
-
+<!--
 ---
   
 <p align="center">
@@ -52,7 +52,7 @@ Experienced Software Developer with over 2 years of expertise in PHP and the Lar
 
 
 ---
-
+-->
 
 
 
