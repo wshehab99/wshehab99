@@ -7,6 +7,8 @@ Experienced Software Developer with over 2 years of expertise in PHP and the Lar
 
 
 ## 🔗 Links
+[![stackoverflow](https://img.shields.io/badge/stackoverflow-E7700D?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23528868/waleed-bin-shehab)
+[![hackerrank](https://img.shields.io/badge/hackerrank-20d761?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/waleedbinshihab)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wshehab99.github.io/portfolio)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wshehab99)
 [![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wshehab99)
